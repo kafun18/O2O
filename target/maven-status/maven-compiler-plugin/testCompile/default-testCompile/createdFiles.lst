@@ -1,0 +1,3 @@
+com\imooc\o2o\BaseTest.class
+com\imooc\o2o\dao\AreaDaoTest.class
+com\imooc\o2o\service\AreaServiceTest.class
