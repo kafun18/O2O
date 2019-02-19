@@ -1,14 +1,38 @@
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\entity\Area.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\dao\AreaDao.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\entity\PersonInfo.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\entity\ProductCategory.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\entity\ShopCategory.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\entity\WechatAuth.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\entity\ProductImg.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\entity\LocalAuth.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\service\impl\AreaServiceImpl.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\entity\Product.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\entity\Shop.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\service\AreaService.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\entity\HeadLine.java
-D:\ECLIPSE\eclipse project\o2o\src\main\java\com\imooc\o2o\web\superadmin\AreaController.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\dao\AreaDao.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\service\ShopCategoryService.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\entity\Product.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\dao\ShopDao.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\util\ImageUtil.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\util\PageCalculator.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\service\impl\ShopServiceImpl.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\entity\HeadLine.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\entity\LocalAuth.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\entity\WechatAuth.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\exceptions\ShopOperationException.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\web\shopadmin\ShopAdminController.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\service\impl\ShopCategoryServiceImpl.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\web\shopadmin\ShopManagementController.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\entity\Area.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\entity\ProductImg.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\util\CodeUtil.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\dto\ShopExecution.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\service\AreaService.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\exceptions\ProductCategoryOperationException.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\dto\Result.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\entity\ShopCategory.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\enums\ProductCategoryStateEnum.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\service\impl\ProductCategoryServiceImpl.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\dao\ShopCategoryDao.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\entity\Shop.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\service\impl\AreaServiceImpl.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\service\ShopService.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\web\shopadmin\ProductCategoryManagementController.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\dao\ProductCategoryDao.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\dto\ProductCategoryExecution.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\entity\ProductCategory.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\service\ProductCategoryService.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\entity\PersonInfo.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\util\HttpServletRequestUtil.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\enums\ShopStateEnum.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\web\superadmin\AreaController.java
+F:\ECLIPSE\github\o2o\src\main\java\com\imooc\o2o\util\PathUtil.java
